@@ -23,7 +23,7 @@ You will build a linked list that stores year and number of wins for a team. Add
 You will want to practice creating an empty list, and then adding elements to the list. For this lab, we will focus on writing a *singly* linked list, meaning we only add items to one end of the list, and we only go 'one direction' for the nodes. 
 
 
-## Step 1: Create Nodes (10 minutes)
+## Step 1: Create Nodes (5 minutes)
 
 For this step, you should create your struct. It will have three values to it, the year, the wins, and a pointer to another node!
 
