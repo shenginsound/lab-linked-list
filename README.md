@@ -1,30 +1,26 @@
-# HW README
+# Lab / In-Class Activity
 
-Name:
+👉🏽 **Task**
 
-Github Account name: 
+## 📝 Grading Rubric
 
-How many hours did it take you to complete this assignment (estimate)? 
+This activity is manually graded via TA during class time. It requires both attendance and working through the lab. 
 
-Did you collaborate with any other students/TAs/Professors? If so, tell us who and in what capacity.  
-- one per row, add more if needed
+<!-- 
+Add (AG) and (MG) next to tiers, add major conditions to meet to pass each tier. 
 
-
-Did you use any external resources (you do not have to cite in class material)? (Cite them below)  
-- one row per resource
-
-
-(Optional) What was your favorite part of the assignment? 
-
-(Optional) How would you improve the assignment? 
-
-## Questions Answers (change to better heading)
+1. Learning ()
+   * 
+2. Approaching  ()
+   * 
+3. Meets  ()
+   * 
+4. Exceeds  ()
+   * 
 
 
-## Important notes
+AG - Auto-graded  
+MG - Manually graded
+-->
 
-* Your code **must compile and run** on the Khoury machines to earn credit. Make sure you test your programs on these machines, as this is where we grade your assignments.
-* You must commit any additional files(if any) into your repository so we can test your code.
-  * Points will be lost if you forget!
-* Do not forget, once you have pushed your changes to your repo make sure that you **submit them to Gradescope before the assignment deadline!**
-
+## 📚 Resources
