@@ -64,7 +64,7 @@ How would you test this? Would using some of the testing tools help?
 Now write a function that takes in a node, and prints out the entire list based the first node entered.  Then, of course, print out your list!
  
 ## Step 4: Free List (10 minutes)
-Write a function traverses a list, freeing every node you allocated. Use Valgrind to make sure you don't have a memory leak. 
+Write a function traverses a list, freeing every node you allocated. 
 
 
 ## Step 5: Find Year (15 minutes)
